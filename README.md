@@ -1,2 +1,3 @@
 # Challenge-Plataforma-Educativa
-darnos
+Nos llegaron los datos  de un cliente que necesita ayuda. El mismo, viene de una institución que aún tiene problemas en sus datos y necesita tu colaboración para aclarar si estos datos pueden hacer un buen modelo que prediga la probabilidad de aprobación de un cierto curso o no. Estos datos se encuentran en el archivo con el nombre: dataset_challenge_edmachina.csv .
+Se puede observar que hay dos posibles variables a predecir (target y target_b). Con los datos de las variables esperamos que puedas ayudar al cliente a determinar qué target hace más lógica respecto a cómo interactúan con las otras variables. Para ello es importante poder describir el comportamiento de las variables, cómo se relacionan entre sí y ver si pueden ayudarnos en la predicción de nuestro modelo.
